@@ -2,9 +2,9 @@
 
 Find me working on:
 
-[<img src="https://raw.githubusercontent.com/cake-tech/cakepay-web-market/main/static/images/favicon.png?token=GHSAT0AAAAAACQOILOWDDV63JQ7XTZPM6QMZQNK5OA" height="20" alt="Alt text"> Cake Wallet](https://github.com/cake-tech/cake_wallet) - The open source, noncustodial multi-currency wallet
+[<img src="https://raw.githubusercontent.com/cake-tech/cakepay-web-market/main/static/images/favicon.png?token=GHSAT0AAAAAACQOILOWDDV63JQ7XTZPM6QMZQNK5OA" height="20" alt="Alt text"> Cake Wallet](https://github.com/cake-tech/cake_wallet) - The open source, noncustodial multi-currency wallet.
 
-[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20" alt="Alt text"> Electrs](https://github.com/cake-tech/electrs) - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments protocol
+[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20" alt="Alt text"> Electrs](https://github.com/cake-tech/electrs) - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments protocol.
 
 [<img src="https://raw.githubusercontent.com/cake-tech/cakepay-web-market/main/static/images/favicon.png?token=GHSAT0AAAAAACQOILOWDDV63JQ7XTZPM6QMZQNK5OA" height="20" alt="Alt text"> CakePay](https://buy.cakepay.com) - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
 
