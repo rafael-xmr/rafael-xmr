@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-<!--
-[<img src="https://avatars.githubusercontent.com/u/38265490?s=48&v=4" height="20" alt="Alt text"> Cake Wallet](https://github.com/cake-tech/cake_wallet)
+Find me working on:
 
-[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20" alt="Alt text"> Electrs](https://github.com/cake-tech/electrs)
+[<img src="https://raw.githubusercontent.com/cake-tech/cakepay-web-market/main/static/images/favicon.png?token=GHSAT0AAAAAACQOILOWDDV63JQ7XTZPM6QMZQNK5OA" height="20" alt="Alt text"> Cake Wallet](https://github.com/cake-tech/cake_wallet) - The open source, noncustodial multi-currency wallet
+
+[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20" alt="Alt text"> Electrs](https://github.com/cake-tech/electrs) - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments protocol
+
+[<img src="https://raw.githubusercontent.com/cake-tech/cakepay-web-market/main/static/images/favicon.png?token=GHSAT0AAAAAACQOILOWDDV63JQ7XTZPM6QMZQNK5OA" height="20" alt="Alt text"> CakePay](https://buy.cakepay.com) - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
+
+[<img src="https://raw.githubusercontent.com/cake-tech/monerocom/main/static/assets/img/logo.png?token=GHSAT0AAAAAACQOILOWR4USI6ZKFNRTSASWZQNK56Q" height="20" alt="Alt text"> Monero.com](https://monero.com) - News, charts & Monero block explorer.
+
+<!--
+Other things:
 
 [<img src="https://raw.githubusercontent.com/Jelmerro/Vieb/master/app/img/icons/48x48.png" height="20" alt="Alt text"> Vieb](https://github.com/Jelmerro/Vieb)
 
