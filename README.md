@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-https://github.com/cake-tech/cake_wallet
-
 <!--
+[<img src="https://avatars.githubusercontent.com/u/38265490?s=48&v=4" height="20" alt="Alt text"> Cake Wallet](https://github.com/cake-tech/cake_wallet)
+
+[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20" alt="Alt text"> Electrs](https://github.com/cake-tech/electrs)
+
+[<img src="https://raw.githubusercontent.com/Jelmerro/Vieb/master/app/img/icons/48x48.png" height="20" alt="Alt text"> Vieb](https://github.com/Jelmerro/Vieb)
+
 **rafael-xmr/rafael-xmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
