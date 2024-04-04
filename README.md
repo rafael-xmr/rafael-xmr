@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find me working on:
+###### Find me working on:
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ] - The open source, noncustodial multi-currency wallet.
 
@@ -10,22 +10,7 @@ Find me working on:
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> CakePay](https://buy.cakepay.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - News, charts & Monero block explorer.
-
 <!--
-Other things:
+###### Cool things:
 
-[<img src="https://raw.githubusercontent.com/Jelmerro/Vieb/master/app/img/icons/48x48.png" height="20" alt="Alt text"> Vieb](https://github.com/Jelmerro/Vieb)
-
-**rafael-xmr/rafael-xmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/df803da7f0475cf0549e6c13ad916b980515a7cb/Papirus/48x48/apps/vieb.svg" height="20"> Vieb browser](https://github.com/Jelmerro/Vieb)
