@@ -5,7 +5,7 @@
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ] - The open source, noncustodial multi-currency wallet.
 
 
-[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20"> Electrs](https://github.com/cake-tech/electrs) [ ![](https://img.shields.io/badge/Rust-CE412B?logo=rust) ] - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments protocol.
+[<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20"> Electrs](https://github.com/cake-tech/electrs) [ ![](https://img.shields.io/badge/Rust-CE412B?logo=rust) ] - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments (BIP-0352) protocol.
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> CakePay](https://buy.cakepay.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
 
