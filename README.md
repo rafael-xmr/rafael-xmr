@@ -12,12 +12,13 @@
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - News, charts & Monero block explorer.
 
-<!--
+
 
 
 ###### Support:
 
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/2da4a943-ea71-484f-a5d9-ec2b9e81466f" height="150" alt="Bitcoin Silent Payments Address">
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="150" alt="Bitcoin Silent Payments Address">
 
 <!--
 
