@@ -12,7 +12,6 @@
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - News, charts & Monero block explorer.
 
-<!--
 
 
 ###### Support:
