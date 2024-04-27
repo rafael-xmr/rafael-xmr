@@ -16,7 +16,7 @@
 
 ###### Support:
 
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/2da4a943-ea71-484f-a5d9-ec2b9e81466f" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/7f402497-2955-44a2-aa8d-1abedb51df58" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="150" alt="Monero Address">
 
 ###### Contact:
