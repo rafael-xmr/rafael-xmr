@@ -13,10 +13,9 @@
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - News, charts & Monero block explorer.
 
 
-
 ###### Support:
 
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/7f402497-2955-44a2-aa8d-1abedb51df58" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="150" alt="Monero Address">
 
 ###### Contact:
