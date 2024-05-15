@@ -18,14 +18,14 @@
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="150" alt="Monero Address">
 
+###### _[How I made the QR codes](https://gist.github.com/rafael-xmr/3ccb7d984e87618e0b3f563fd4f48797)_
+
+<!--
 ###### Contact:
 
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/73e69d55-1ab4-4943-994b-afa2d7f45cf1" height="250" alt="SimpleX Contact Address">
 
 
-###### _[How I made the QR codes](https://gist.github.com/rafael-xmr/3ccb7d984e87618e0b3f563fd4f48797)_
-
-<!--
 
 ###### Cool things:
 
