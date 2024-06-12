@@ -1,22 +1,25 @@
 ### Hi there 👋
 
-###### Find me working on:
+#### Find me working on:
 
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ] - The open source, noncustodial multi-currency wallet.
+[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ![](https://img.shields.io/badge/Flutter-0468d7?logo=flutter) ] - The open source, noncustodial multi-currency wallet.
 
 [<img src="https://raw.githubusercontent.com/romanz/electrs/master/logo/icon.svg" height="20"> Electrs](https://github.com/cake-tech/electrs) [ ![](https://img.shields.io/badge/Rust-CE412B?logo=rust) ] - An efficient re-implementation of Electrum Server in Rust, with support for the Bitcoin Silent Payments ([BIP-0352](https://github.com/josibake/bips/blob/silent-payments-bip/bip-0352.mediawiki)) protocol.
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/btc.png?raw=true" height="20"> bitcoin_base](https://github.com/cake-tech/bitcoin_base) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ] A versatile library for Bitcoin, Dogecoin, Litecoin, Dash, BSV and Bitcoin Cash, with support for the Bitcoin Silent Payments ([BIP-0352](https://github.com/josibake/bips/blob/silent-payments-bip/bip-0352.mediawiki)) protocol.
 
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> CakePay](https://buy.cakepay.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
+[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> CakePay](https://buy.cakepay.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white) ] - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via Trocador exchange.
 
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ] - News, charts & Monero block explorer.
+[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white) ] - News, charts & Monero block explorer.
 
 
-###### Support:
+#### Support my work:
+###### I appreciate every donation and it helps my work and travel to events to spread the word
 
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="150" alt="Bitcoin Silent Payments Address">  _[?](https://guides.cakewallet.com/docs/cryptos/bitcoin/)_
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="150" alt="Monero Address">
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="175" alt="Bitcoin Silent Payments Address">
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="175" alt="Monero Address">
+
+ _[Bitcoin silent payment ^](https://guides.cakewallet.com/docs/cryptos/bitcoin/#silent-payments)_
 
 ###### _[How I made the QR codes](https://gist.github.com/rafael-xmr/3ccb7d984e87618e0b3f563fd4f48797)_
 
