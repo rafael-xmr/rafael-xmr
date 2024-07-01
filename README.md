@@ -17,6 +17,7 @@
 ###### I appreciate every donation and it helps my work, family care, and travel to events to spread the word
 
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="175" alt="Bitcoin Silent Payments Address">
+<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8ed5518a-57d4-43cf-bc16-fcae7dd887ce" height="175" alt="Bitcoin LN Address">
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="175" alt="Monero Address">
 
  _[Bitcoin silent payment ^](https://guides.cakewallet.com/docs/cryptos/bitcoin/#silent-payments)_
