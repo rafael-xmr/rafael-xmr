@@ -16,11 +16,15 @@
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white) ] - News, charts & Monero block explorer.
 
+<!--
+[<img src="https://github.com/rafael-xmr/nostrudel/blob/mostard/public/mostard_sat.png?raw=true" height="20"> mostard](https://mostard.org) [ ![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white) ] - nostr + monero.
+-->
+
 #### Support my work:
 ###### I appreciate every donation and it helps my work, family care, and travel to events to spread the word
 
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="175" alt="Bitcoin Silent Payments Address">
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8bb4634f-aca8-4454-9d00-fed8e8c69725" height="175" alt="Bitcoin LN Address">
+<img src="https://github.com/user-attachments/assets/9a8b1dd1-7e11-4f23-b998-c2331e48ecd6" height="175" alt="Bitcoin LN Address">
 <img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="175" alt="Monero Address">
 
  _[Bitcoin silent payment ^](https://guides.cakewallet.com/docs/cryptos/bitcoin/#silent-payments)_
