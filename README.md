@@ -16,6 +16,10 @@
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.com_logo.png?raw=true" height="20"> Monero.com](https://monero.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white) ] - News, charts & Monero block explorer.
 
+
+[<img src="https://raw.githubusercontent.com/rafael-xmr/nostrudel/refs/heads/mostard/public/favicon.ico" height="20"> moStard](https://github.com/rafael-xmr/nostrudel/tree/mostard) [ ![](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=TypeScript&logoColor=black) ![](https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=React&logoColor=black
+) ] - A sandbox for exploring nostr, with Monero support.
+
 <!--
 [<img src="https://github.com/rafael-xmr/nostrudel/blob/mostard/public/mostard_sat.png?raw=true" height="20"> mostard](https://mostard.org) [ ![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white) ] - nostr + monero.
 -->
