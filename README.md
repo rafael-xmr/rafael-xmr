@@ -4,7 +4,7 @@
 
 <hr style="height=0.05em">
 
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ![](https://img.shields.io/badge/Flutter-0468d7?logo=flutter) ] - The open source, noncustodial multi-currency wallet.
+[<img src="https://avatars.githubusercontent.com/u/38265490?s=200&v=4" height="20"> Cake Wallet](https://github.com/cake-tech/cake_wallet) [ ![](https://img.shields.io/badge/Dart-02569B?logo=dart) ![](https://img.shields.io/badge/Flutter-0468d7?logo=flutter) ] - The open source, noncustodial multi-currency wallet.
 
 [<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/cake_logo.png?raw=true" height="20"> CakePay](https://buy.cakepay.com) [ ![](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white) ] - The marketplace & API service to purchase gift cards and related products for use worldwide using Bitcoin, Monero & altcoins via a Trocador exchange integration.
 
