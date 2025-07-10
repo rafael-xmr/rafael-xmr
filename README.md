@@ -25,37 +25,10 @@
 [<img src="https://raw.githubusercontent.com/rafael-xmr/nostrudel/refs/heads/mostard/public/favicon.ico" height="25"> moStard](https://github.com/rafael-xmr/nostrudel/tree/mostard) [ ![](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=TypeScript&logoColor=black) ![](https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=React&logoColor=black
 ) ] - A sandbox for exploring nostr, with Monero support.
 
-[<img src="https://raw.githubusercontent.com/rafael-xmr/nerostr/refs/heads/main/nerostr/html/static/assets/nerostr.webp" height="20"> nerostr](https://github.com/rafael-xmr/nerostr) [ ![](https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=Go&logoColor=white) ] - nostr paid relay, but with monero
-
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.png?raw=true" height="20"> oro](https://github.com/rafael-xmr/oro) [ ![](https://img.shields.io/badge/Elixir-%234B275F?style=flat&logo=Elixir) ] - Elixir package to interact with the Monero RPC API
-
-[<img src="https://github.com/cake-tech/cake_wallet/blob/main/assets/images/monero.png?raw=true" height="20"> waybilling](https://github.com/rafael-xmr/waybilling) [ ![](https://img.shields.io/badge/Elixir-%234B275F?style=flat&logo=Elixir) ] - Monero payment processor, BTCPayServer alternative [in progress]
-
 <hr style="height=0.05em">
 
-
-<!--
-[<img src="https://github.com/rafael-xmr/nostrudel/blob/mostard/public/mostard_sat.png?raw=true" height="20"> mostard](https://mostard.org) [ ![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white) ] - nostr + monero.
--->
 
 #### Support my work:
 ###### I appreciate every donation and it helps my work to continue, take care of my family, and travel to events to spread the word
 
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/8b9c11d9-cd32-4d45-a743-d4cda1fc7490" height="175" alt="Bitcoin Silent Payments Address">
-<img src="https://github.com/user-attachments/assets/9a8b1dd1-7e11-4f23-b998-c2331e48ecd6" height="175" alt="Bitcoin LN Address">
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/0381040e-f4d4-4af5-9a32-ca131b2afefd" height="175" alt="Monero Address">
-
- _[Bitcoin silent payment ^](https://guides.cakewallet.com/docs/cryptos/bitcoin/#silent-payments)_
-
-###### _[How I made the QR codes](https://gist.github.com/rafael-xmr/3ccb7d984e87618e0b3f563fd4f48797)_
-
-<!--
-###### Contact:
-
-<img src="https://github.com/rafael-xmr/rafael-xmr/assets/76502841/73e69d55-1ab4-4943-994b-afa2d7f45cf1" height="250" alt="SimpleX Contact Address">
-
-
-
-###### Cool things:
-
-[<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/df803da7f0475cf0549e6c13ad916b980515a7cb/Papirus/48x48/apps/vieb.svg" height="20"> Vieb browser](https://github.com/Jelmerro/Vieb)
+<img src="https://github.com/user-attachments/assets/60144bf8-214d-4205-8842-7c2f804a4559" height="175" alt="Monero Address">
